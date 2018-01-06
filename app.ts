@@ -61,3 +61,5 @@ function greeter(person: string) {
 }
 let user:string = "Jane User";
 document.body.innerHTML = greeter(user);
+
+let variable: string = "Joe";
