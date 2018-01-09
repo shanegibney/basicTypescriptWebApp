@@ -53,7 +53,7 @@ window.onload = function () {
     // }
     var user = "Joey";
     var sentence = user + " is super,\nand totally duper!";
-    document.body.innerHTML = "<p><strong>" + sentence + "</strong></p>";
+    document.body.innerHTML = "<p><strong>" + sentence + " blah blah blah</strong></p>";
 };
 //var
 function f() {
