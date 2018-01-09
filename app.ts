@@ -60,7 +60,7 @@ window.onload = function() {
 //     return "Hello, " + person;
 // }
 
-let user: string = "Joe";
+let user: string = "Joey";
 let sentence: string = `${user} is super,
 and totally duper!`;
 
