@@ -64,7 +64,7 @@ let user: string = "Joey";
 let sentence: string = `${user} is super,
 and totally duper!`;
 
-document.body.innerHTML = "<p><strong>" + sentence + "</strong></p>";
+document.body.innerHTML = "<p><strong>" + sentence + " blah blah blah</strong></p>";
 }
 
 //var
