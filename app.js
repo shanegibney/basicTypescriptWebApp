@@ -51,7 +51,7 @@ window.onload = function () {
     // function greeter(person) {
     //     return "Hello, " + person;
     // }
-    var user = "Joe";
+    var user = "Joey";
     var sentence = user + " is super,\nand totally duper!";
     document.body.innerHTML = "<p><strong>" + sentence + "</strong></p>";
 };
